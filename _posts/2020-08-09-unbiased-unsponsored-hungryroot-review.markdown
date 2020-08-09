@@ -32,7 +32,9 @@ There are two different ways you can select your Hungryroot foods: by recipe, or
 
 I decided to select a mix of foods: some were curated recipes by Hungryroot, and some were foods I just wanted to mix and match. All in all, I ended up selecting 7 bags of veggies, 7 meats, 1 pack of veggie meatballs, 1 pasta, and 6 sauces.
 
-![hungryroot.jpg](/uploads/hungryroot.jpg) you finish selecting your foods, you can save your choices. In a few days, a box of groceries with an ice pack will show up on your doorstep and you can start cooking!
+![hungryroot.jpg](/uploads/hungryroot.jpg) 
+
+Once you finish selecting your foods, you can save your choices. In a few days, a box of groceries with an ice pack will show up on your doorstep and you can start cooking!
 
 It works similar to Blue Apron or Hello Fresh, in that you receive cooking instructions along with your box of groceries. It’s very different, however, since the recipes are MUCH easier and quicker to make. The veggies come pre-chopped, and the meats are pre-cooked. Even the rice is partially pre-cooked and can be finished with just a couple minutes in the microwave or on a skillet. All you have to do is heat the ingredients for a few minutes in a skillet, add some sauce, and you’re done. It couldn’t be any easier without being a microwave dinner.
 
@@ -50,7 +52,7 @@ It can be good for anyone learning to cook as well, although it does come at a p
 
 The price ranges from $8.49 to $9.99 per serving, depending on the number of options you choose. You can choose anywhere from 3 to 8 lunch/dinner recipes, which are 2 servings each. On top of that, you can add snacks, desserts, and breakfast foods.
 
-If you choose the maximum amount of items (16 servings of lunch/dinner, 7-10 servings of sweets, and 8-12 servings of breakfast, it costs $225 weekly. If you choose the minimum of 6 dinner servings and no snacks or breakfast, it will run you $60 + $6.99 shipping. If your order is over $75, you qualify for free shipping.
+If you choose the maximum amount of items (16 servings of lunch/dinner, 7-10 servings of sweets, and 8-12 servings of breakfast, it costs $225 weekly. If you choose the minimum of 6 dinner servings and no snacks or breakfast, it will run you $60 \+ $6.99 shipping. If your order is over $75, you qualify for free shipping.
 
 Although they list the plans by number of servings, Hungryroot works on a credit system. The plan you pay for determines the number of credits you receive, and each ingredient or recipe will cost a certain number of credits. I signed up for 2 lunch servings and 12 dinner servings, which gave me 65 credits and came out to $118.86 before my signup discount. That equals about $1.83 per credit.
 
