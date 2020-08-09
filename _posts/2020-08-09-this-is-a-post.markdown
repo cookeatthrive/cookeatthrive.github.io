@@ -9,3 +9,5 @@ tags:
 ---
 
 This is my first post.
+
+![pexels-daria-shevtsova-704569.jpg](/uploads/pexels-daria-shevtsova-704569.jpg)
