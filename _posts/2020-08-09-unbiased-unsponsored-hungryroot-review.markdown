@@ -2,8 +2,7 @@
 title: Unbiased, Unsponsored Hungryroot Review
 date: 2020-08-09 18:14:00 Z
 categories:
-- recipes
-- dinner
+- review
 tags:
 - recipes
 - dinner
