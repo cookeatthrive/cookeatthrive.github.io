@@ -3,10 +3,10 @@ title: Home
 date: 2020-08-09 17:35:00 Z
 ---
 
-<ul>
+
   {% for post in site.posts %}
-    <li>
+    <h1>
       <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
+    </h1>
+
   {% endfor %}
-</ul>
