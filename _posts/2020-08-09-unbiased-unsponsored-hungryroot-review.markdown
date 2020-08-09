@@ -24,6 +24,8 @@ Hungryroot is a meal delivery service that boasts healthy, simple recipes. If yo
 
 Once you’re on the website, you take a short quiz about the number of people you want to feed, any dietary restrictions, and what types of meals you’re shopping for. It will then take you to a screen with your recommended plan. You can make adjustments to the number of meals and snacks, then check out.
 
+![Screenshot 2020-08-09 at 12.05.44 PM.png](/uploads/Screenshot%202020-08-09%20at%2012.05.44%20PM.png)
+
 After you pay for your plan, the fun part starts: choosing the food. Hungryroot will automatically generate a suggested meal plan for you, but if you’re anything like me, you will want to customize.
 
 There are two different ways you can select your Hungryroot foods: by recipe, or by individual groceries. Hungryroot has 4 main food categories: Produce, Meat/Protein, Grains, and Sauces. Each recipe will typically include an item from each of the 4 categories, although there are some exceptions.
